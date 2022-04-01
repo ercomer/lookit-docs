@@ -245,7 +245,7 @@ List of tutorial participants
 - Kayle Park (Duke University)
 - Elizabeth Choi (Wellesley College)
 - Asmita Mittal (MIT)
-
+- Eden Comer (University of Wisconsin-Madison)
 
 Checking for and creating issues on Github
 -------------------------------------------
